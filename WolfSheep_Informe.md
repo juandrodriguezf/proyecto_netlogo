@@ -3,7 +3,7 @@
 **Curso:** Teoría de la Computación  
 **Grupo:** —  
 **Fecha:** 25/05/2026  
-**Integrantes:** Juan David Rodríguez Fernández
+**Integrantes:** Juan David Rodríguez Franco
 
 ---
 
